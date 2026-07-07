@@ -17,7 +17,7 @@ def get_driver():
     # ========================================================
     # MODO OCULTO: True = Oculto (Headless) / False = Visible
     # ========================================================
-    MODO_OCULTO = True  
+    MODO_OCULTO = False 
     
     if MODO_OCULTO:
         # Usa el motor moderno de Chrome sin interfaz gráfica

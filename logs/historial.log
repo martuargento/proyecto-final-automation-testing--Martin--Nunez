@@ -1,0 +1,610 @@
+<!-- Historial de logs creado por la herramienta. Archivo inicial vacÃ­o. -->
+21:55:36 - 
+=== TEST 1: GET Posts ===
+21:55:36 - Codigo de estado 200 - correcto
+21:55:36 - Estructura JSON correcta
+21:55:36 - Estructura del post correcta
+21:55:36 - Tipos de datos correctos
+21:55:36 - Test GET Posts completado exitosamente!
+21:55:36 - 
+=== TEST 2: POST Create Post ===
+21:55:37 - Estructura de respuesta correcta
+21:55:37 - Datos guardados correctamente
+21:55:37 - ID asignado correctamente
+21:55:37 - Test CREATE Post completado exitosamente!
+21:55:37 - 
+=== TEST 3: DELETE Post ===
+21:55:37 - Codigo de estado 200 - correcto
+21:55:37 - Respuesta DELETE correcta
+21:55:37 - Test DELETE Post completado exitosamente!
+2026-07-06 22:02:47,762 - INFO - 
+=== TEST 1: GET Posts ===
+2026-07-06 22:02:48,059 - INFO - Codigo de estado 200 - correcto
+2026-07-06 22:02:48,060 - INFO - Estructura JSON correcta
+2026-07-06 22:02:48,060 - INFO - Estructura del post correcta
+2026-07-06 22:02:48,060 - INFO - Tipos de datos correctos
+2026-07-06 22:02:48,060 - INFO - Test GET Posts completado exitosamente!
+2026-07-06 22:02:48,062 - INFO - 
+=== TEST 2: POST Create Post ===
+2026-07-06 22:02:48,474 - INFO - Estructura de respuesta correcta
+2026-07-06 22:02:48,474 - INFO - Datos guardados correctamente
+2026-07-06 22:02:48,474 - INFO - ID asignado correctamente
+2026-07-06 22:02:48,474 - INFO - Test CREATE Post completado exitosamente!
+2026-07-06 22:02:48,476 - INFO - 
+=== TEST 3: DELETE Post ===
+2026-07-06 22:02:48,881 - INFO - Codigo de estado 200 - correcto
+2026-07-06 22:02:48,881 - INFO - Respuesta DELETE correcta
+2026-07-06 22:02:48,881 - INFO - Test DELETE Post completado exitosamente!
+2026-07-06 22:06:56,506 - INFO - 
+=== TEST 1: GET Posts ===
+2026-07-06 22:06:56,803 - INFO - Codigo de estado 200 - correcto
+2026-07-06 22:06:56,804 - INFO - Estructura JSON correcta
+2026-07-06 22:06:56,804 - INFO - Estructura del post correcta
+2026-07-06 22:06:56,804 - INFO - Tipos de datos correctos
+2026-07-06 22:06:56,804 - INFO - Test GET Posts completado exitosamente!
+2026-07-06 22:06:56,807 - INFO - 
+=== TEST 2: POST Create Post ===
+2026-07-06 22:06:57,225 - INFO - Estructura de respuesta correcta
+2026-07-06 22:06:57,225 - INFO - Datos guardados correctamente
+2026-07-06 22:06:57,225 - INFO - ID asignado correctamente
+2026-07-06 22:06:57,226 - INFO - Test CREATE Post completado exitosamente!
+2026-07-06 22:06:57,228 - INFO - 
+=== TEST 3: DELETE Post ===
+2026-07-06 22:06:57,641 - INFO - Codigo de estado 200 - correcto
+2026-07-06 22:06:57,641 - INFO - Respuesta DELETE correcta
+2026-07-06 22:06:57,641 - INFO - Test DELETE Post completado exitosamente!
+22:10:26 - 
+=== TEST 1: GET Posts ===
+22:10:26 - Codigo de estado 200 - correcto
+22:10:26 - Estructura JSON correcta
+22:10:26 - Estructura del post correcta
+22:10:26 - Tipos de datos correctos
+22:10:26 - Test GET Posts completado exitosamente!
+22:10:26 - 
+=== TEST 2: POST Create Post ===
+22:10:26 - Estructura de respuesta correcta
+22:10:26 - Datos guardados correctamente
+22:10:26 - ID asignado correctamente
+22:10:26 - Test CREATE Post completado exitosamente!
+22:10:26 - 
+=== TEST 3: DELETE Post ===
+22:10:27 - Codigo de estado 200 - correcto
+22:10:27 - Respuesta DELETE correcta
+22:10:27 - Test DELETE Post completado exitosamente!
+00:51:56 - 
+=== TEST 1: GET Posts ===
+00:51:56 - Codigo de estado 200 - correcto
+00:51:56 - Estructura JSON correcta
+00:51:56 - Estructura del post correcta
+00:51:56 - Tipos de datos correctos
+00:51:56 - Test GET Posts completado exitosamente!
+00:51:56 - 
+=== TEST 2: POST Create Post ===
+00:51:57 - Estructura de respuesta correcta
+00:51:57 - Datos guardados correctamente
+00:51:57 - ID asignado correctamente
+00:51:57 - Test CREATE Post completado exitosamente!
+00:51:57 - 
+=== TEST 3: DELETE Post ===
+00:51:57 - Codigo de estado 200 - correcto
+00:51:57 - Respuesta DELETE correcta
+00:51:57 - Test DELETE Post completado exitosamente!
+01:00:34 - 
+=== TEST 1: GET Posts ===
+01:00:34 - Codigo de estado 200 - correcto
+01:00:34 - Estructura JSON correcta
+01:00:34 - Estructura del post correcta
+01:00:34 - Tipos de datos correctos
+01:00:34 - Test GET Posts completado exitosamente!
+01:00:34 - 
+=== TEST 2: POST Create Post ===
+01:00:34 - Estructura de respuesta correcta
+01:00:34 - Datos guardados correctamente
+01:00:34 - ID asignado correctamente
+01:00:34 - Test CREATE Post completado exitosamente!
+01:00:34 - 
+=== TEST 3: DELETE Post ===
+01:00:35 - Codigo de estado 200 - correcto
+01:00:35 - Respuesta DELETE correcta
+01:00:35 - Test DELETE Post completado exitosamente!
+01:05:56 - 
+=== TEST 1: GET Posts ===
+01:05:57 - Codigo de estado 200 - correcto
+01:05:57 - Estructura JSON correcta
+01:05:57 - Estructura del post correcta
+01:05:57 - Tipos de datos correctos
+01:05:57 - Test GET Posts completado exitosamente!
+01:05:57 - 
+=== TEST 2: POST Create Post ===
+01:05:57 - Estructura de respuesta correcta
+01:05:57 - Datos guardados correctamente
+01:05:57 - ID asignado correctamente
+01:05:57 - Test CREATE Post completado exitosamente!
+01:05:57 - 
+=== TEST 3: DELETE Post ===
+01:05:57 - Codigo de estado 200 - correcto
+01:05:57 - Respuesta DELETE correcta
+01:05:57 - Test DELETE Post completado exitosamente!
+01:08:49 - 
+=== TEST 1: GET Posts ===
+01:08:49 - Codigo de estado 200 - correcto
+01:08:49 - Estructura JSON correcta
+01:08:49 - Estructura del post correcta
+01:08:49 - Tipos de datos correctos
+01:08:49 - Test GET Posts completado exitosamente!
+01:08:49 - 
+=== TEST 2: POST Create Post ===
+01:08:50 - Estructura de respuesta correcta
+01:08:50 - Datos guardados correctamente
+01:08:50 - ID asignado correctamente
+01:08:50 - Test CREATE Post completado exitosamente!
+01:08:50 - 
+=== TEST 3: DELETE Post ===
+01:08:50 - Codigo de estado 200 - correcto
+01:08:50 - Respuesta DELETE correcta
+01:08:50 - Test DELETE Post completado exitosamente!
+01:25:01 - 
+=== TEST 1: GET Posts ===
+01:25:02 - Codigo de estado 200 - correcto
+01:25:02 - Estructura JSON correcta
+01:25:02 - Estructura del post correcta
+01:25:02 - Tipos de datos correctos
+01:25:02 - Test GET Posts completado exitosamente!
+01:25:02 - 
+=== TEST 2: POST Create Post ===
+01:25:02 - Estructura de respuesta correcta
+01:25:02 - Datos guardados correctamente
+01:25:02 - ID asignado correctamente
+01:25:02 - Test CREATE Post completado exitosamente!
+01:25:02 - 
+=== TEST 3: DELETE Post ===
+01:25:03 - Codigo de estado 200 - correcto
+01:25:03 - Respuesta DELETE correcta
+01:25:03 - Test DELETE Post completado exitosamente!
+01:44:37 - 
+=== TEST 1: GET Posts ===
+01:44:37 - Codigo de estado 200 - correcto
+01:44:37 - Estructura JSON correcta
+01:44:37 - Estructura del post correcta
+01:44:37 - Tipos de datos correctos
+01:44:37 - Test GET Posts completado exitosamente!
+01:44:37 - 
+=== TEST 2: POST Create Post ===
+01:44:38 - Estructura de respuesta correcta
+01:44:38 - Datos guardados correctamente
+01:44:38 - ID asignado correctamente
+01:44:38 - Test CREATE Post completado exitosamente!
+01:44:38 - 
+=== TEST 3: DELETE Post ===
+01:44:38 - Codigo de estado 200 - correcto
+01:44:38 - Respuesta DELETE correcta
+01:44:38 - Test DELETE Post completado exitosamente!
+02:00:06 - 
+=== TEST 1: GET Posts ===
+02:00:06 - Codigo de estado 200 - correcto
+02:00:06 - Estructura JSON correcta
+02:00:06 - Estructura del post correcta
+02:00:06 - Tipos de datos correctos
+02:00:06 - Test GET Posts completado exitosamente!
+02:00:06 - 
+=== TEST 2: POST Create Post ===
+02:00:07 - Estructura de respuesta correcta
+02:00:07 - Datos guardados correctamente
+02:00:07 - ID asignado correctamente
+02:00:07 - Test CREATE Post completado exitosamente!
+02:00:07 - 
+=== TEST 3: DELETE Post ===
+02:00:07 - Codigo de estado 200 - correcto
+02:00:07 - Respuesta DELETE correcta
+02:00:07 - Test DELETE Post completado exitosamente!
+02:12:22 - 
+=== TEST 1: GET Posts ===
+02:12:22 - Codigo de estado 200 - correcto
+02:12:22 - Estructura JSON correcta
+02:12:22 - Estructura del post correcta
+02:12:22 - Tipos de datos correctos
+02:12:22 - Test GET Posts completado exitosamente!
+02:12:22 - 
+=== TEST 2: POST Create Post ===
+02:12:23 - Estructura de respuesta correcta
+02:12:23 - Datos guardados correctamente
+02:12:23 - ID asignado correctamente
+02:12:23 - Test CREATE Post completado exitosamente!
+02:12:23 - 
+=== TEST 3: DELETE Post ===
+02:12:23 - Codigo de estado 200 - correcto
+02:12:23 - Respuesta DELETE correcta
+02:12:23 - Test DELETE Post completado exitosamente!
+02:22:24 - 
+=== TEST 1: GET Posts ===
+02:22:24 - Codigo de estado 200 - correcto
+02:22:24 - Estructura JSON correcta
+02:22:24 - Estructura del post correcta
+02:22:24 - Tipos de datos correctos
+02:22:24 - Test GET Posts completado exitosamente!
+02:22:24 - 
+=== TEST 2: POST Create Post ===
+02:22:25 - Estructura de respuesta correcta
+02:22:25 - Datos guardados correctamente
+02:22:25 - ID asignado correctamente
+02:22:25 - Test CREATE Post completado exitosamente!
+02:22:25 - 
+=== TEST 3: DELETE Post ===
+02:22:25 - Codigo de estado 200 - correcto
+02:22:25 - Respuesta DELETE correcta
+02:22:25 - Test DELETE Post completado exitosamente!
+02:28:05 - 
+=== TEST 1: GET Posts ===
+02:28:05 - Codigo de estado 200 - correcto
+02:28:05 - Estructura JSON correcta
+02:28:05 - Estructura del post correcta
+02:28:05 - Tipos de datos correctos
+02:28:05 - Test GET Posts completado exitosamente!
+02:28:05 - 
+=== TEST 2: POST Create Post ===
+02:28:05 - Estructura de respuesta correcta
+02:28:05 - Datos guardados correctamente
+02:28:05 - ID asignado correctamente
+02:28:05 - Test CREATE Post completado exitosamente!
+02:28:05 - 
+=== TEST 3: DELETE Post ===
+02:28:06 - Codigo de estado 200 - correcto
+02:28:06 - Respuesta DELETE correcta
+02:28:06 - Test DELETE Post completado exitosamente!
+02:41:36 - 
+=== TEST 1: GET Posts ===
+02:41:37 - Codigo de estado 200 - correcto
+02:41:37 - Estructura JSON correcta
+02:41:37 - Estructura del post correcta
+02:41:37 - Tipos de datos correctos
+02:41:37 - Test GET Posts completado exitosamente!
+02:41:37 - 
+=== TEST 2: POST Create Post ===
+02:41:37 - Estructura de respuesta correcta
+02:41:37 - Datos guardados correctamente
+02:41:37 - ID asignado correctamente
+02:41:37 - Test CREATE Post completado exitosamente!
+02:41:37 - 
+=== TEST 3: DELETE Post ===
+02:41:38 - Codigo de estado 200 - correcto
+02:41:38 - Respuesta DELETE correcta
+02:41:38 - Test DELETE Post completado exitosamente!
+03:07:20 - 
+=== TEST 1: GET Posts ===
+03:07:21 - Codigo de estado 200 - correcto
+03:07:21 - Estructura JSON correcta
+03:07:21 - Estructura del post correcta
+03:07:21 - Tipos de datos correctos
+03:07:21 - Test GET Posts completado exitosamente!
+03:07:21 - 
+=== TEST 2: POST Create Post ===
+03:07:21 - Estructura de respuesta correcta
+03:07:21 - Datos guardados correctamente
+03:07:21 - ID asignado correctamente
+03:07:21 - Test CREATE Post completado exitosamente!
+03:07:21 - 
+=== TEST 3: DELETE Post ===
+03:07:21 - Codigo de estado 200 - correcto
+03:07:21 - Respuesta DELETE correcta
+03:07:21 - Test DELETE Post completado exitosamente!
+03:29:59 - 
+=== TEST 1: GET Posts ===
+03:30:00 - Codigo de estado 200 - correcto
+03:30:00 - Estructura JSON correcta
+03:30:00 - Estructura del post correcta
+03:30:00 - Tipos de datos correctos
+03:30:00 - Test GET Posts completado exitosamente!
+03:30:00 - 
+=== TEST 2: POST Create Post ===
+03:30:00 - Estructura de respuesta correcta
+03:30:00 - Datos guardados correctamente
+03:30:00 - ID asignado correctamente
+03:30:00 - Test CREATE Post completado exitosamente!
+03:30:00 - 
+=== TEST 3: DELETE Post ===
+03:30:01 - Codigo de estado 200 - correcto
+03:30:01 - Respuesta DELETE correcta
+03:30:01 - Test DELETE Post completado exitosamente!
+16:21:33 - 
+=== TEST 1: GET Posts ===
+16:21:33 - Codigo de estado 200 - correcto
+16:21:33 - Estructura JSON correcta
+16:21:33 - Estructura del post correcta
+16:21:33 - Tipos de datos correctos
+16:21:33 - Test GET Posts completado exitosamente!
+16:21:33 - 
+=== TEST 2: POST Create Post ===
+16:21:34 - Estructura de respuesta correcta
+16:21:34 - Datos guardados correctamente
+16:21:34 - ID asignado correctamente
+16:21:34 - Test CREATE Post completado exitosamente!
+16:21:34 - 
+=== TEST 3: DELETE Post ===
+16:21:34 - Codigo de estado 200 - correcto
+16:21:34 - Respuesta DELETE correcta
+16:21:34 - Test DELETE Post completado exitosamente!
+16:22:49 - Fallo detectado. Captura guardada en E:\QA Automatization\Entrega-Final-Automation-Testing\reporte\screenshots\test_test_checkout_page.py_test_checkout_validation_1783452169.png
+16:24:08 - 
+=== TEST 1: GET Posts ===
+16:24:08 - Codigo de estado 200 - correcto
+16:24:08 - Estructura JSON correcta
+16:24:08 - Estructura del post correcta
+16:24:08 - Tipos de datos correctos
+16:24:08 - Test GET Posts completado exitosamente!
+16:24:08 - 
+=== TEST 2: POST Create Post ===
+16:24:08 - Estructura de respuesta correcta
+16:24:08 - Datos guardados correctamente
+16:24:08 - ID asignado correctamente
+16:24:08 - Test CREATE Post completado exitosamente!
+16:24:08 - 
+=== TEST 3: DELETE Post ===
+16:24:09 - Codigo de estado 200 - correcto
+16:24:09 - Respuesta DELETE correcta
+16:24:09 - Test DELETE Post completado exitosamente!
+16:25:23 - Fallo detectado. Captura guardada en E:\QA Automatization\Entrega-Final-Automation-Testing\reporte\screenshots\test_test_checkout_page.py_test_checkout_validation_1783452323.png
+16:28:19 - 
+=== TEST 1: GET Posts ===
+16:28:19 - Codigo de estado 200 - correcto
+16:28:19 - Estructura JSON correcta
+16:28:19 - Estructura del post correcta
+16:28:19 - Tipos de datos correctos
+16:28:19 - Test GET Posts completado exitosamente!
+16:28:19 - 
+=== TEST 2: POST Create Post ===
+16:28:19 - Estructura de respuesta correcta
+16:28:19 - Datos guardados correctamente
+16:28:19 - ID asignado correctamente
+16:28:19 - Test CREATE Post completado exitosamente!
+16:28:19 - 
+=== TEST 3: DELETE Post ===
+16:28:20 - Codigo de estado 200 - correcto
+16:28:20 - Respuesta DELETE correcta
+16:28:20 - Test DELETE Post completado exitosamente!
+16:29:35 - Fallo detectado. Captura guardada en E:\QA Automatization\Entrega-Final-Automation-Testing\reporte\screenshots\test_test_checkout_page.py_test_checkout_validation_1783452575.png
+16:35:31 - 
+=== TEST 1: GET Posts ===
+16:35:32 - Codigo de estado 200 - correcto
+16:35:32 - Estructura JSON correcta
+16:35:32 - Estructura del post correcta
+16:35:32 - Tipos de datos correctos
+16:35:32 - Test GET Posts completado exitosamente!
+16:35:32 - 
+=== TEST 2: POST Create Post ===
+16:35:32 - Estructura de respuesta correcta
+16:35:32 - Datos guardados correctamente
+16:35:32 - ID asignado correctamente
+16:35:32 - Test CREATE Post completado exitosamente!
+16:35:32 - 
+=== TEST 3: DELETE Post ===
+16:35:32 - Codigo de estado 200 - correcto
+16:35:32 - Respuesta DELETE correcta
+16:35:32 - Test DELETE Post completado exitosamente!
+16:36:47 - Fallo detectado. Captura guardada en E:\QA Automatization\Entrega-Final-Automation-Testing\reporte\screenshots\test_test_checkout_page.py_test_checkout_validation_1783453007.png
+16:40:19 - 
+=== TEST 1: GET Posts ===
+16:40:20 - Codigo de estado 200 - correcto
+16:40:20 - Estructura JSON correcta
+16:40:20 - Estructura del post correcta
+16:40:20 - Tipos de datos correctos
+16:40:20 - Test GET Posts completado exitosamente!
+16:40:20 - 
+=== TEST 2: POST Create Post ===
+16:40:20 - Estructura de respuesta correcta
+16:40:20 - Datos guardados correctamente
+16:40:20 - ID asignado correctamente
+16:40:20 - Test CREATE Post completado exitosamente!
+16:40:20 - 
+=== TEST 3: DELETE Post ===
+16:40:21 - Codigo de estado 200 - correcto
+16:40:21 - Respuesta DELETE correcta
+16:40:21 - Test DELETE Post completado exitosamente!
+16:40:29 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000166A89B6270>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexiï¿½n ya que el equipo de destino denegï¿½ expresamente dicha conexiï¿½n')': /session/c72861c13fe64bc13593866d46cd48cb
+16:40:33 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000166A89E6C10>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexiï¿½n ya que el equipo de destino denegï¿½ expresamente dicha conexiï¿½n')': /session/c72861c13fe64bc13593866d46cd48cb
+16:40:37 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000166A89E6990>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexiï¿½n ya que el equipo de destino denegï¿½ expresamente dicha conexiï¿½n')': /session/c72861c13fe64bc13593866d46cd48cb
+16:42:37 - 
+=== TEST 1: GET Posts ===
+16:42:37 - Codigo de estado 200 - correcto
+16:42:37 - Estructura JSON correcta
+16:42:37 - Estructura del post correcta
+16:42:37 - Tipos de datos correctos
+16:42:37 - Test GET Posts completado exitosamente!
+16:42:37 - 
+=== TEST 2: POST Create Post ===
+16:42:37 - Estructura de respuesta correcta
+16:42:37 - Datos guardados correctamente
+16:42:37 - ID asignado correctamente
+16:42:37 - Test CREATE Post completado exitosamente!
+16:42:37 - 
+=== TEST 3: DELETE Post ===
+16:42:38 - Codigo de estado 200 - correcto
+16:42:38 - Respuesta DELETE correcta
+16:42:38 - Test DELETE Post completado exitosamente!
+16:43:52 - Fallo detectado. Captura guardada en E:\QA Automatization\Entrega-Final-Automation-Testing\reporte\screenshots\test_test_checkout_page.py_test_checkout_validation_1783453432.png
+16:49:00 - 
+=== TEST 1: GET Posts ===
+16:49:00 - Codigo de estado 200 - correcto
+16:49:00 - Estructura JSON correcta
+16:49:00 - Estructura del post correcta
+16:49:00 - Tipos de datos correctos
+16:49:00 - Test GET Posts completado exitosamente!
+16:49:00 - 
+=== TEST 2: POST Create Post ===
+16:49:01 - Estructura de respuesta correcta
+16:49:01 - Datos guardados correctamente
+16:49:01 - ID asignado correctamente
+16:49:01 - Test CREATE Post completado exitosamente!
+16:49:01 - 
+=== TEST 3: DELETE Post ===
+16:49:01 - Codigo de estado 200 - correcto
+16:49:01 - Respuesta DELETE correcta
+16:49:01 - Test DELETE Post completado exitosamente!
+16:49:08 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000123E44F6120>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexiï¿½n ya que el equipo de destino denegï¿½ expresamente dicha conexiï¿½n')': /session/6ab89c39c1787bad8f8e3c8199a10048
+16:49:12 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000123E452AC10>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexiï¿½n ya que el equipo de destino denegï¿½ expresamente dicha conexiï¿½n')': /session/6ab89c39c1787bad8f8e3c8199a10048
+16:49:16 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000123E452A990>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexiï¿½n ya que el equipo de destino denegï¿½ expresamente dicha conexiï¿½n')': /session/6ab89c39c1787bad8f8e3c8199a10048
+16:51:08 - 
+=== TEST 1: GET Posts ===
+16:51:08 - Codigo de estado 200 - correcto
+16:51:08 - Estructura JSON correcta
+16:51:08 - Estructura del post correcta
+16:51:08 - Tipos de datos correctos
+16:51:08 - Test GET Posts completado exitosamente!
+16:51:08 - 
+=== TEST 2: POST Create Post ===
+16:51:08 - Estructura de respuesta correcta
+16:51:08 - Datos guardados correctamente
+16:51:08 - ID asignado correctamente
+16:51:08 - Test CREATE Post completado exitosamente!
+16:51:08 - 
+=== TEST 3: DELETE Post ===
+16:51:09 - Codigo de estado 200 - correcto
+16:51:09 - Respuesta DELETE correcta
+16:51:09 - Test DELETE Post completado exitosamente!
+16:53:48 - 
+=== TEST 1: GET Posts ===
+16:53:48 - Codigo de estado 200 - correcto
+16:53:48 - Estructura JSON correcta
+16:53:48 - Estructura del post correcta
+16:53:48 - Tipos de datos correctos
+16:53:48 - Test GET Posts completado exitosamente!
+16:53:48 - 
+=== TEST 2: POST Create Post ===
+16:53:49 - Estructura de respuesta correcta
+16:53:49 - Datos guardados correctamente
+16:53:49 - ID asignado correctamente
+16:53:49 - Test CREATE Post completado exitosamente!
+16:53:49 - 
+=== TEST 3: DELETE Post ===
+16:53:49 - Codigo de estado 200 - correcto
+16:53:49 - Respuesta DELETE correcta
+16:53:49 - Test DELETE Post completado exitosamente!
+16:59:13 - 
+=== TEST 1: GET Posts ===
+16:59:14 - Codigo de estado 200 - correcto
+16:59:14 - Estructura JSON correcta
+16:59:14 - Estructura del post correcta
+16:59:14 - Tipos de datos correctos
+16:59:14 - Test GET Posts completado exitosamente!
+16:59:14 - 
+=== TEST 2: POST Create Post ===
+16:59:14 - Estructura de respuesta correcta
+16:59:14 - Datos guardados correctamente
+16:59:14 - ID asignado correctamente
+16:59:14 - Test CREATE Post completado exitosamente!
+16:59:14 - 
+=== TEST 3: DELETE Post ===
+16:59:15 - Codigo de estado 200 - correcto
+16:59:15 - Respuesta DELETE correcta
+16:59:15 - Test DELETE Post completado exitosamente!
+17:00:42 - 
+=== TEST 1: GET Posts ===
+17:00:42 - Codigo de estado 200 - correcto
+17:00:42 - Estructura JSON correcta
+17:00:42 - Estructura del post correcta
+17:00:42 - Tipos de datos correctos
+17:00:42 - Test GET Posts completado exitosamente!
+17:00:42 - 
+=== TEST 2: POST Create Post ===
+17:00:42 - Estructura de respuesta correcta
+17:00:42 - Datos guardados correctamente
+17:00:42 - ID asignado correctamente
+17:00:42 - Test CREATE Post completado exitosamente!
+17:00:42 - 
+=== TEST 3: DELETE Post ===
+17:00:43 - Codigo de estado 200 - correcto
+17:00:43 - Respuesta DELETE correcta
+17:00:43 - Test DELETE Post completado exitosamente!
+17:49:42 - 
+=== TEST 1: GET Posts ===
+17:49:42 - Codigo de estado 200 - correcto
+17:49:42 - Estructura JSON correcta
+17:49:42 - Estructura del post correcta
+17:49:42 - Tipos de datos correctos
+17:49:42 - Test GET Posts completado exitosamente!
+17:49:42 - 
+=== TEST 2: POST Create Post ===
+17:49:42 - Estructura de respuesta correcta
+17:49:42 - Datos guardados correctamente
+17:49:42 - ID asignado correctamente
+17:49:42 - Test CREATE Post completado exitosamente!
+17:49:42 - 
+=== TEST 3: DELETE Post ===
+17:49:43 - Codigo de estado 200 - correcto
+17:49:43 - Respuesta DELETE correcta
+17:49:43 - Test DELETE Post completado exitosamente!
+17:52:48 - 
+=== TEST 1: GET Posts ===
+17:52:48 - Codigo de estado 200 - correcto
+17:52:48 - Estructura JSON correcta
+17:52:48 - Estructura del post correcta
+17:52:48 - Tipos de datos correctos
+17:52:48 - Test GET Posts completado exitosamente!
+17:52:48 - 
+=== TEST 2: POST Create Post ===
+17:52:49 - Estructura de respuesta correcta
+17:52:49 - Datos guardados correctamente
+17:52:49 - ID asignado correctamente
+17:52:49 - Test CREATE Post completado exitosamente!
+17:52:49 - 
+=== TEST 3: DELETE Post ===
+17:52:49 - Codigo de estado 200 - correcto
+17:52:49 - Respuesta DELETE correcta
+17:52:49 - Test DELETE Post completado exitosamente!
+17:53:26 - Fallo detectado. Captura guardada en E:\Nueva carpeta\reporte\screenshots\test_test_checkout_complete_page.py_test_complete_purchase_flow_1783457606.png
+18:08:04 - 
+=== TEST 1: GET Posts ===
+18:08:05 - Codigo de estado 200 - correcto
+18:08:05 - Estructura JSON correcta
+18:08:05 - Estructura del post correcta
+18:08:05 - Tipos de datos correctos
+18:08:05 - Test GET Posts completado exitosamente!
+18:08:05 - 
+=== TEST 2: POST Create Post ===
+18:08:05 - Estructura de respuesta correcta
+18:08:05 - Datos guardados correctamente
+18:08:05 - ID asignado correctamente
+18:08:05 - Test CREATE Post completado exitosamente!
+18:08:05 - 
+=== TEST 3: DELETE Post ===
+18:08:06 - Codigo de estado 200 - correcto
+18:08:06 - Respuesta DELETE correcta
+18:08:06 - Test DELETE Post completado exitosamente!
+18:08:13 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022ED15C2120>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/17ba8ccf091fb3afecfc8fb282c03e32
+18:08:17 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022ED15E6C10>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/17ba8ccf091fb3afecfc8fb282c03e32
+18:08:21 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022ED15E6990>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/17ba8ccf091fb3afecfc8fb282c03e32
+18:08:59 - 
+=== TEST 1: GET Posts ===
+18:09:00 - Codigo de estado 200 - correcto
+18:09:00 - Estructura JSON correcta
+18:09:00 - Estructura del post correcta
+18:09:00 - Tipos de datos correctos
+18:09:00 - Test GET Posts completado exitosamente!
+18:09:00 - 
+=== TEST 2: POST Create Post ===
+18:09:00 - Estructura de respuesta correcta
+18:09:00 - Datos guardados correctamente
+18:09:00 - ID asignado correctamente
+18:09:00 - Test CREATE Post completado exitosamente!
+18:09:00 - 
+=== TEST 3: DELETE Post ===
+18:09:00 - Codigo de estado 200 - correcto
+18:09:00 - Respuesta DELETE correcta
+18:09:00 - Test DELETE Post completado exitosamente!
+18:09:16 - 
+=== TEST 1: GET Posts ===
+18:09:16 - Codigo de estado 200 - correcto
+18:09:16 - Estructura JSON correcta
+18:09:16 - Estructura del post correcta
+18:09:16 - Tipos de datos correctos
+18:09:16 - Test GET Posts completado exitosamente!
+18:09:16 - 
+=== TEST 2: POST Create Post ===
+18:09:16 - Estructura de respuesta correcta
+18:09:16 - Datos guardados correctamente
+18:09:16 - ID asignado correctamente
+18:09:16 - Test CREATE Post completado exitosamente!
+18:09:16 - 
+=== TEST 3: DELETE Post ===
+18:09:17 - Codigo de estado 200 - correcto
+18:09:17 - Respuesta DELETE correcta
+18:09:17 - Test DELETE Post completado exitosamente!
