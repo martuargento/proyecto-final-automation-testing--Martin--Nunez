@@ -1,0 +1,24 @@
+[
+    {
+        "username": "standard_user",
+        "password": "secret_sauce",
+        "login_booleano": true
+    },
+    {
+        "username": "locked_out_user",
+        "password": "secret_sauce",
+        "login_booleano": false
+    },
+    {
+        "username": "usuario_malo",
+        "password": "password_malo",
+        "login_booleano": false
+    }
+]
+
+
+
+
+
+
+
