@@ -53,7 +53,7 @@ def test_checkout_validation(driver):
 
     # Verificar que se muestre mensaje de error
     error_message = checkout.get_error_message()
-    assert "First Name is required" in error_message
+    assert "First Name is required Borrar" in error_message
 
 
 
