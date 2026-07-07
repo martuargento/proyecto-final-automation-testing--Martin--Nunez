@@ -1,0 +1,6 @@
+pytest
+pytest-html
+requests
+selenium
+webdriver-manager
+faker
