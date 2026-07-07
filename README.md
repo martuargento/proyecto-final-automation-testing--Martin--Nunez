@@ -22,14 +22,23 @@ API: Pruebas de endpoints públicos (JSONPlaceholder) usando los métodos GET, P
 
 ## Estructura del proyecto
 ├── data/               # Fuentes de datos y archivos de configuración para pruebas
+
 ├── logs/               # Registros históricos del sistema de logging (.log)
+
 ├── page/               # Clases y localizadores de Page Object Model (UI)
+
 ├── reporte/            # Reporte de Pytest y capturas de pantalla (.html y .png)
+
 │   └── screenshots/    # Evidencias automáticas ante fallas de tests
+
 ├── test/               # Casos de prueba automatizados (UI y API)
+
 ├── utils/              # Helpers y configuración de drivers (get_driver)
+
 ├── conftest.py         # Configuración global de fixtures, hooks y capturas de Pytest
+
 ├── pytest.ini          # Parámetros de ejecución por defecto de Pytest
+
 └── requirements.txt    # Lista de dependencias del proyecto
 
 ## Instalación de Dependencias
